@@ -1,0 +1,15 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+h1{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+.thought1,.thought2,.thought3{
+
+    font-family: 'Ranga', cursive;
+}
